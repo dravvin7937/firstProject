@@ -2,6 +2,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 import java.lang.Math;
 //Katherin has viewed this
+
 /*
  * Dana Ravvin
  * Guessing Game
@@ -16,7 +17,7 @@ public class GuessingGame {
 		Scanner input = new Scanner(System.in);
 		String s = input.next();
 		int x = input.nextInt();
-		
+		//Prompt for user to understand the logic behind the game
 		System.out.println("I have chosen a number from 1-10. Can you guess what it is?");
 		
 		while (!(randNum == x))
