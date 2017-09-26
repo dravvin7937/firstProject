@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 import java.lang.Math;
-
+//Katherin has viewed this
 /*
  * Dana Ravvin
  * Guessing Game
